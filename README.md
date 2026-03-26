@@ -16,20 +16,6 @@
 视频播放学习
 学习进度追踪
 
-## 项目结构
-.
-├── hou/                    # 后端代码
-│   ├── src/               # 源代码
-│   ├── pom.xml            # Maven配置
-│   └── HELP.md            # 帮助文档
-├── qian/                   # 前端代码
-│   ├── study/             # 学习模块
-│   │   ├── src/           # 源代码
-│   │   ├── public/        # 静态资源
-│   │   └── package.json   # 依赖配置
-├── ff/                     # 视频处理工具
-│   └── ffmpeg-7.0-essentials_build/
-└── README.md               # 项目说明
 
 ## 快速开始
 后端启动:
